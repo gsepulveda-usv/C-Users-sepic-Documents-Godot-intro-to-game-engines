@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://d2q3dkgyitacx"]
 
 [ext_resource type="Texture2D" uid="uid://b363ivogc71nx" path="res://Sepi Resources/adventurer_reddit-side.png" id="1_6614m"]
-[ext_resource type="Texture2D" uid="uid://bwtjse4p38uq8" path="res://2D Resources/tilesets/back.png" id="2_bhu08"]
+[ext_resource type="Texture2D" uid="uid://bwtjse4p38uq8" path="res://tilesets/back.png" id="2_bhu08"]
 
 [sub_resource type="Theme" id="Theme_0qies"]
 
